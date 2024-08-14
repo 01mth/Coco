@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card{
+    margin-top: 5%;
+    background-color: rgb(255, 241, 243);
+    margin-bottom: 5%;
+}
+
+footer{
+background-color: rgb(255, 241, 196);
+display: flex;
+justify-content: center;
+}
+
+.textofooter{
+    font-size: 25px;
+    margin-bottom: 0;
+    padding: 10px;
+}
